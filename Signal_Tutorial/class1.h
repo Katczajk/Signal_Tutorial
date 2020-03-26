@@ -1,31 +1,21 @@
 #pragma once
 #ifndef CLASS1_H
-#include <iostream>
-#include <Windows.h>
-#include <string>
-
 #define CLASS1_H
 
-using namespace std;
+#include <stdio.h>
+#include <string>
+#include <string.h>
 
+
+// declare using namespace class1
 namespace class1 {
 
-	
-	class Baum
-	{
-		public:
-			Baum();
-			~Baum();
-			static void get_Text(string g_text);
-			static void show_info(LPCSTR g_text);
-			void public_class();
-		private:
-			void inside_class();
+	// we declare first function here
+	void infoTxt();
+	// using as same with submit parameter
+	void infoTxt(int zahl1);
 
-	public:
-		static void InTest();
-	};
-	
+
 
 
 }

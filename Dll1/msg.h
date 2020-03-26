@@ -13,6 +13,7 @@
 
 namespace msg {
 
-	__declspec(dllimportexport) void get_infomsg();
+	// __declspec(dllimportexport) void get_infomsg();
+	__declspec(dllimportexport) void _start();
 
 }
