@@ -8,7 +8,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Signal_Tutorial", "Signal_T
 		{A2FC50FD-F584-4270-B4F7-B261AF8DD0FA} = {A2FC50FD-F584-4270-B4F7-B261AF8DD0FA}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dll1", "Dll1\Dll1.vcxproj", "{A2FC50FD-F584-4270-B4F7-B261AF8DD0FA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function", "Dll1\Dll1.vcxproj", "{A2FC50FD-F584-4270-B4F7-B261AF8DD0FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
